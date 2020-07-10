@@ -1,0 +1,5 @@
+vre_remote_api/*.pyc
+vre_remote_api/__pycache__
+__pycache__
+*.pyc
+.vscode
